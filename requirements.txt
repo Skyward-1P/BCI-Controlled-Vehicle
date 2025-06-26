@@ -1,0 +1,5 @@
+pyserial  # Serial communication with Arduino
+numpy  # Numerical operations
+scikit-learn  # Machine learning model
+matplotlib  # For real-time plotting in the GUI
+tk  # Tkinter for GUI (usually included with Python) 
